@@ -5,7 +5,7 @@ import { ThemeProvider, CssBaseline } from '@mui/material'
 
 import createEmotionCache from '../utility/createEmotionCache'
 import darkTheme from '../styles/theme/darkTheme'
-import '../styles/globals.css'
+import '../styles/globals.css' 
 
 import SideNavContext from 'src/Contexts/SideNavContext'
 
