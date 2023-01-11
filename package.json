@@ -35,7 +35,8 @@
     "react-datepicker": "^4.8.0",
     "react-dom": "18.2.0",
     "react-switch-selector": "^2.2.1",
-    "react-triple-toggle-switch": "^1.0.3"
+    "react-triple-toggle-switch": "^1.0.3",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "eslint": "8.19.0",
