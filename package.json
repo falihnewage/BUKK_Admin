@@ -1,0 +1,49 @@
+{
+  "name": "crm-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.9.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.10.0",
+    "@fontsource/roboto": "^4.5.7",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/joy": "^5.0.0-alpha.42",
+    "@mui/material": "^5.9.0",
+    "@mui/x-data-grid": "^5.16.0",
+    "@mui/x-date-pickers": "^5.0.1",
+    "@mui/x-date-pickers-pro": "^5.0.1",
+    "@wojtekmaj/react-daterange-picker": "^4.0.0",
+    "chart.js": "^3.9.1",
+    "chart.js-v2": "^2.0.0",
+    "chartjs-adapter-date-fns": "^1.1.0-beta.1",
+    "chartjs-plugin-datalabels": "^2.1.0",
+    "date-fns": "^2.29.2",
+    "dayjs": "^1.11.5",
+    "formik": "^2.2.9",
+    "moment": "^2.29.4",
+    "mui-daterange-picker": "^1.0.5",
+    "next": "^12.2.2",
+    "react": "18.2.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.2.0",
+    "react-switch-selector": "^2.2.1",
+    "react-triple-toggle-switch": "^1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2"
+  },
+  "engines": {
+    "node": ">=16.x <18.x",
+    "npm": ">=6.x"
+  }
+}

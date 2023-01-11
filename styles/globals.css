@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins';
+  background-color: #251a40;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: inherit;
+  text-decoration-color: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins';
+}
+
+span {
+  font-family: 'Poppins';
+ 
+}
