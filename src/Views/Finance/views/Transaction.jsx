@@ -4,11 +4,11 @@ import Driverwallets from '../components/Driverwallets'
 import WorkIcon from '@mui/icons-material/Work'
 import LocalShippingIcon from '@mui/icons-material/LocalShipping'
 import Person from '@mui/icons-material/Person'
-// import SwitchSelector from 'react-switch-selector'
+import SwitchSelector from 'react-switch-selector'
 import dynamic from 'next/dynamic'
-const SwitchSelector = dynamic(() => import('react-switch-selector'), {
-  ssr: false,
-})
+// const SwitchSelector = dynamic(() => import('react-switch-selector'), {
+//   ssr: false,
+// })
 export default function Transaction() {
   const options = [
     {
